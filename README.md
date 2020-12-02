@@ -134,6 +134,6 @@ Other:
 
 [Repository](https://github.com/AnnaVilardell/PR07-FinalProject/tree/dev)
 
-[PowerPoint Presentation](TBDet)
+[Presentation](TBDet)
 
 [GitHub Project](https://github.com/AnnaVilardell/PR07-FinalProject/projects/1?add_cards_query=is%3Aopen)
