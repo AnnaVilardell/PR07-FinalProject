@@ -1,6 +1,4 @@
-![Random Forest](https://www.unilever.com/Images/Global-BDG-deforastation-fallback_tcm244-531317.jpg)
-
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+                                          ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
 # PRO7-FinalProject
 
