@@ -34,7 +34,7 @@ The dataset chosen is data of +35k student from IH.
 
 **Goal**
 
-Classify if a potential student is going to enrol or not to a school. *What if would be possible to predict if a potential student will enrol to IH?*
+Classify if a potential student is going to enrol or not to a school. *What if would be possible to predict if a potential student will enrol to IH?*  *what if we could understand the potential stuents' journey to enrol?*
 
 
 
@@ -51,18 +51,16 @@ Classify if a potential student is going to enrol or not to a school. *What if w
     
         - Explore Data
         - Clean Data
-        - Transform Data
-        - Creat new columns (where?)
+        - Remove usless columns
+        - Creat new columns
     
     2.3 Feature Selection  
     
-        - Delete not useful variables
-        - Correlation      
+        - Feature selection was done togeter and after with the Model      
     
     2.4 Feature Engineering
     
-        - Log transformation
-        - Scaler
+        - Was not needed in this project for the type od data we had
         
 
 3. Select From Model (Classification Models)
@@ -78,21 +76,26 @@ Classify if a potential student is going to enrol or not to a school. *What if w
 
 4. Train Models (Machine Learning Classification Models)
 
-        - ?
+        - RandomForestClassifier
+          - Gridsearch
+          - Classifier (with best params)
+          - Feature Importance
+          - Tree Visualization
    
 5. Ensemble Methods
 
         - XGBoost
-        - Stacking
+          - Gridsearch
+          - Classifier (with best params)
+          - Feature Importance
 
-6. Time Series (?)
 
 
 ## Organization
 
 **Main Organization of the project thought GitHub Project board:**
 
-1. Organize a Project GitHub board with main tasks and timings
+1. Organize a Project GitHub project board with main tasks and timings
 2. Create a repository including a .gitignore file and a Readme.md
 3. Data Preparation
 4. Modeling
@@ -106,29 +109,56 @@ Classify if a potential student is going to enrol or not to a school. *What if w
 
 CSVs raw data:
 
-    - ih_application.csv
+    - apps_ih.csv
+    - apps_ih_extended.csv (final version & used for our project)
 
 CSVs clean data:
+    
+    - apps_allYears_semiClean.csv
+    - apps_allYears_clean_selCols.csv
+    - apps_allYears_clean_selCols_addCols.csv
 
-    - apps_semi_clean.csv
-    - apps_clean.csv
-    - apps_clean_transformed.csv
+    - apps_BCN20201_clean_selCols.csv
+    - apps_BCN20201_clean_Sel_addCols.csv
+    
+    - apps_PAR20201_clean_selCols.csv
+    - apps_PAR20201_clean_Sel_addCols.csv
 
-
+   
 Jupyter notebook:
-
+    
+    - Scraping API Salesforce.ipynb
+    
     - EDA.ipynb
-    - DataWrangling
-    - FeatureSelection|Engineering
-    - SelectFromModel.ipynb
-    - ML_?? TBDet
-    - PCA-LDA.ipynb
-    - EnsembleLearning.ipynb
+    
+    - AllCampusesYears_DataWrangling.ipynb
+    - AllCampusesYears_SelectFromModel .ipynb
+    - AllCampusesYears_Model.ipynb
+    - AllCampusesYears_Model_ImpFeatures.ipynb
+    - AllCampusesYears_Ensemble_ImpFeatures.ipynb
+       
+    - BCN20201_DataWrangling.ipynb
+    - BCN20201_Model.ipynb
+    - BCN20201_Ensemble_ImpFeatures.ipynb
 
+    - PAR20201_DataWrangling.ipynb
+    - PAR20201_Model.ipynb
+    - PAR20201_Model_ImpFeatures.ipynb
+    - PAR20201_Ensemble_ImpFeatures.ipynb
+    
+Image:
+
+    - ACY_M_tree.png
+    - BCN01_M_tree.png
+    - PAR01_M_tree.png
+    - PAR01_M_FI_tree.png
+    
 
 Other:
 
     - README.md
+    - tree.dot
+    - AllCampuses&Years_tree.dot
 
 
 
