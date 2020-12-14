@@ -18,7 +18,7 @@ There are challenges that organizations face in adopting analytics. As for insta
 - Poor quality data, referring to both qualitative and quantitative pieces of information
 - Data privacy, also called information privacy which is the aspect of information technology (IT) that deals with the ability an organization or individual has to determine what data in a computer system can be shared with third parties.
 
-Regardless of above the mentioned challenges, the importance of data and capturing the impact from analytics will be my goal through this project.
+Regardless of above the mentioned challenges, the importance of data and capturing the impact from analytics will be my overall goal through this project.
 
 
 ![Data Impact](https://s27389.pcdn.co/wp-content/uploads/2020/05/coronavirus-diary-when-data-science-becomes-an-art-1-1024x440.jpeg)
@@ -72,9 +72,9 @@ The specific date we have from our students is besides demographic data, dates/t
     - ...
 
 
-**Goal**
+**Main objectives**
 
-The goal of this project is to create a model to classify if a potential student is going to enrol or not to a the Irohack school and, moreover, to undersand the journey he/she is more likely to follow.
+I've create a model to classify if a potential student is going to enrol or not to a the Irohack school and, moreover, to undersand the journey he/she is more likely to follow.
  
  The 3 objectives that will impact Ironhack are:
    1. Know better funnel trends, to dedicate +/- resources to ≠ prospects and stages
@@ -144,15 +144,17 @@ The goal of this project is to create a model to classify if a potential student
 7. Complete Readme.md
 
 
+
 **Inside this repository you can find:**
 
 0. CSVs
-   CSVs raw data:
+
+    - CSVs raw data:
 
        - apps_ih.csv
        - apps_ih_extended.csv (final version & used for our project)
 
-   CSVs clean data:
+   - CSVs clean data:
 
        - apps_allYears_semiClean.csv
        - apps_allYears_clean_selCols.csv
