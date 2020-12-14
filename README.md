@@ -12,7 +12,7 @@
 _____________________________________________________________________________________________________________________________________________________________
 
 
-Deriving meaningful insights from that data, and converting knowledge into action, is easier said than done.
+Deriving meaningful insights from data, and converting knowledge into action, is easier said than done.
 
 There are challenges that organizations face in adopting analytics. As for instance, during this project 2 of the challenges I’ve found were:
 - Poor quality data, referring to both qualitative and quantitative pieces of information
