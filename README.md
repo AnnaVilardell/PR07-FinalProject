@@ -140,7 +140,7 @@ I've create a model to classify if a potential student is going to enrol or not 
 
 ## Organization
 
-**Main Organization of the project thought GitHub Project board:**
+### Main Organization of the project thought GitHub Project board
 
 1. Organize a Project GitHub project board with main tasks and timings
 2. Create a repository including a .gitignore file and a Readme.md
@@ -153,9 +153,9 @@ I've create a model to classify if a potential student is going to enrol or not 
 
 
 
-**Inside this repository you can find 3 folders with all data:**
+### Inside this repository you can find 3 folders with all data:
 
-CSVs
+**CSVs folder**
 
    - CSVs raw data (will only be available to Irohack Staff):
 
@@ -175,7 +175,7 @@ CSVs
        - apps_PAR20201_clean_Sel_addCols.csv
 
   
-Notebooks
+**Notebooks folder**
 
 1. Environment
    
@@ -207,14 +207,14 @@ Notebooks
    - PAR20201_Ensemble_ImpFeatures.ipynb
 
 
-Images:
+**Images folder**
 
    - ACY_M_tree.png
    - BCN01_M_tree.png
    - PAR01_M_tree.png
    - PAR01_M_FI_tree.png
 
-Other:
+**Other documents**
 
    - README.md
    - tree.dot
