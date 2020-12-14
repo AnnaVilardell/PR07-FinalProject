@@ -107,17 +107,20 @@ I've create a model to classify if a potential student is going to enrol or not 
 
 3. Select From Model (Classification Models)
         
-        - LogisticRegression
-        - SVM
-        - KNeighborsClassifier
-        - LinearDiscriminantAnalysis
-        - GaussianNB
-        - RandomForestClassifier
-        - MLPClassifier
+        - Data Preprocessing
+        - Classification Models
+            - LogisticRegression
+            - SVM
+            - KNeighborsClassifier
+            - LinearDiscriminantAnalysis
+            - GaussianNB
+            - RandomForestClassifier
+            - MLPClassifier
 
 4. Train Models (Machine Learning Classification Models)
 
         - RandomForestClassifier
+          - Data Preprocessing
           - Gridsearch
           - Classifier (with best params)
           - Feature Importance
@@ -126,6 +129,7 @@ I've create a model to classify if a potential student is going to enrol or not 
 5. Ensemble Methods
 
         - XGBoost
+          - Data Preprocessing
           - Gridsearch
           - Classifier (with best params)
           - Feature Importance
