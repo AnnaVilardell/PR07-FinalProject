@@ -39,7 +39,7 @@ As the definiton says, Machine learning is an application of artificial intellig
 
 In my case, I've used machine learning to create a model that predicts Ironhack Sales.
 
-Besides my deep love for data, being the Admissions Manager at Ironhack Barcelona, have drove me to see the importance of data and its potential, and the permit to get the data. Unfortunately, most of the times we collect a lot of data but without paying much attention to its quality and not having time to take a look at the one we have and use it smartly. So, this project have gave me the opportunitty to work on it.
+Besides my deep love for data, being the Admissions Manager at Ironhack Barcelona, have drove me to see the importance of data and its potential. Unfortunately, most of the times we collect a lot of data but without paying much attention to its quality and not having time to take a look at the one we have and use it smartly. So, this project have gave me the opportunitty to work on it.
 
 
 **Dataset**
