@@ -21,20 +21,44 @@
 
 ### Description
 
-This project is to put practice Machine Learning in a real project.
+This project is to apply Machine Learning in a real project.
 
 **Dataset**
 
-The dataset chosen is data of +35k student from IH.
+The dataset chosen is data of +40k student from IH.
 
 **Metadata**
  
-    - TBDet.
+    - bootcamp_course: course associated to the opportunity, either WD, UX or DA.
+    - bootcamp_format: format associated to the opportunity, either FT or PT.
+    - bootcamp_start_date: Start Date of the course associated to thez opportunity.
+    - stage: The stage name the application lives at that moment.
+    - lost_deal_reason: Reason why the applicant has dropped the admission process
+    - stage_before_lost: The stage where the opportunity is before getting lost
+    - created_date: Date and time when this record was created.
+    - close_date: Date when the opportunity is expected to close (before closing) or closed.
+    - drop_reason: Reason why the applicant has dropped after paying his deposit
+    - net_amount: Amount minus Discount or Scholarship Amount
+    - discount_type: Type of the discount, either Scholarship or Discount
+    - discount_name: Name of the discount initiative associated to the opportunity
+    - discount_amount: Amount of the discount that the applicant received
+    - scholarship_name: Name of the scholarship initiative associated to the opportunity
+    - scholarship_amount: Amount of the scholarship discount given to the opportunity
+    - financing_options: name of the financing option
+    - financing_option_amount: amount in local currency of the financing option
+    - deposit_payment: The amount of the tuition neither the student or Ironhack paid
+    - Stage Duration: The number of days the opportunity was in the stage listed in the Stage column
+    - ...
 
 
 **Goal**
 
-Classify if a potential student is going to enrol or not to a school. *What if would be possible to predict if a potential student will enrol to IH?*  *what if we could understand the potential stuents' journey to enrol?*
+Classify if a potential student is going to enrol or not to a school. *What if it would be possible to predict if a potential student will enrol to IH?*  *What if we could understand his/her journey to enrol?*
+ 
+ The main objectives will be:
+   1. Know better funnel trends, to dedicate +/- resources to ≠ prospects and stages
+   2. Recognize better our target, to give insights to marketing
+   3. Predict better BSt, and so our revenue
 
 
 
