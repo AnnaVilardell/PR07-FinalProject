@@ -2,7 +2,6 @@
 
 # Ironhack Sales Funnel Prediction
 
-_____________________________________________________________________________________________________________________________________________________________
 
 *Anna Vilardell*
 
@@ -33,10 +32,8 @@ Regardless of above mentioned challenges, the importance of data and capturing t
 
 
 
-## Project Description and Workflow
+## Project Description
 
-
-### Description
 
 As the definiton says, Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. It focuses on the development of computer programs that can access data and use it to learn for themselves.
 
@@ -51,7 +48,7 @@ The dataset chosen is data of +40k potential students that apply to any Ironhack
 
 The specific date we have from our students is besides demographic data, dates/timings of the bootcamp, the type of the bootcamp they applied to, the cost od the bootcamps...
 
-**Metadata**
+    Metadata
  
     - bootcamp_course: course associated to the opportunity, either WD, UX or DA.
     - bootcamp_format: format associated to the opportunity, either FT or PT.
@@ -86,7 +83,7 @@ The goal of this project is to create a model to classify if a potential student
 
 
 
-### Workflow
+##  Project Workflow
 
 1. Environment
 
