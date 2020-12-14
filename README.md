@@ -26,7 +26,9 @@ Regardless of above the mentioned challenges, the importance of data and capturi
 
 
 ## Content
-- [Project Description and Workflow](#Project_Description_and_Workflow)
+- [Content](#Content)
+- [Project Description](#Project_Description)
+- [Project Workflow](#Project_Workflow)
 - [Organization](#Organization)
 - [Links](#Links)
 
