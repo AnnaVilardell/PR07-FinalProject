@@ -147,11 +147,11 @@ I've create a model to classify if a potential student is going to enrol or not 
 
 
 
-**Inside this repository you can find:**
+**Inside this repository you can find 3 folders with all data:**
 
-0. CSVs
+CSVs
 
-    - CSVs raw data (will only be available to Irohack Staff):
+   - CSVs raw data (will only be available to Irohack Staff):
 
        - apps_ih.csv
        - apps_ih_extended.csv (final version & used for our project)
@@ -169,6 +169,7 @@ I've create a model to classify if a potential student is going to enrol or not 
        - apps_PAR20201_clean_Sel_addCols.csv
 
   
+Notebooks
 
 1. Environment
    
@@ -199,14 +200,15 @@ I've create a model to classify if a potential student is going to enrol or not 
    - BCN20201_Ensemble_ImpFeatures.ipynb
    - PAR20201_Ensemble_ImpFeatures.ipynb
 
-6. Images:
+
+Images:
 
    - ACY_M_tree.png
    - BCN01_M_tree.png
    - PAR01_M_tree.png
    - PAR01_M_FI_tree.png
 
-7. Other:
+Other:
 
    - README.md
    - tree.dot
