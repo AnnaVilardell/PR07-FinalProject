@@ -1,11 +1,28 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# PRO7-FinalProject
+# Ironhack Sales Funnel Prediction
 
+_____________________________________________________________________________________________________________________________________________________________
 
 *Anna Vilardell*
 
 *Data Analytics-Part Time Course | Barcelona June 2020*
+
+*PRO7-FinalProject*
+
+_____________________________________________________________________________________________________________________________________________________________
+
+
+Deriving meaningful insights from that data, and converting knowledge into action, is easier said than done.
+
+There are challenges that organizations face in adopting analytics. As for instance, during this project 2 of the challenges I’ve found were:
+- Poor quality data, referring to both qualitative and quantitative pieces of information
+- Data privacy, also called information privacy which is the aspect of information technology (IT) that deals with the ability an organization or individual has to determine what data in a computer system can be shared with third parties.
+
+Regardless of above mentioned challenges, the importance of data and capturing the impact from analytics will be my goal through this project.
+
+
+![Data Impact](https://s27389.pcdn.co/wp-content/uploads/2020/05/coronavirus-diary-when-data-science-becomes-an-art-1-1024x440.jpeg)
 
 
 
@@ -21,11 +38,18 @@
 
 ### Description
 
-This project is to apply Machine Learning in a real project.
+As the definiton says, Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. It focuses on the development of computer programs that can access data and use it to learn for themselves.
+
+In my case, I've used machine learning to create a model that predicts Ironhack Sales.
+
+Besides my deep love for data, being the Admissions Manager at Ironhack Barcelona, have drove me to see the importance of data and its potential, and the permit to get the data. Unfortunately, most of the times we collect a lot of data but without paying much attention to its quality and not having time to take a look at the one we have and use it smartly. So, this project have gave me the opportunitty to work on it.
+
 
 **Dataset**
 
-The dataset chosen is data of +40k student from IH.
+The dataset chosen is data of +40k potential students that apply to any Ironhack campus from 2016 to 2020. Note that Ironhack has 10 campuses inclusinf Remote campus.
+
+The specific date we have from our students is besides demographic data, dates/timings of the bootcamp, the type of the bootcamp they applied to, the cost od the bootcamps...
 
 **Metadata**
  
@@ -53,13 +77,12 @@ The dataset chosen is data of +40k student from IH.
 
 **Goal**
 
-Classify if a potential student is going to enrol or not to a school. *What if it would be possible to predict if a potential student will enrol to IH?*  *What if we could understand his/her journey to enrol?*
+The goal of this project is to create a model to classify if a potential student is going to enrol or not to a the Irohack school and, moreover, to undersand the journey he/she is more likely to follow.
  
- The main objectives will be:
+ The 3 objectives that will impact Ironhack are:
    1. Know better funnel trends, to dedicate +/- resources to ≠ prospects and stages
-   2. Recognize better our target, to give insights to marketing
-   3. Predict better BSt, and so our revenue
-
+   2. Recognize better our target, to give insights to marketing. This will also enable us to recived later more qualify prospects.
+   3. Predict better BSt, and so our revenue.
 
 
 
@@ -80,11 +103,7 @@ Classify if a potential student is going to enrol or not to a school. *What if i
     
     2.3 Feature Selection  
     
-        - Feature selection was done togeter and after with the Model      
-    
-    2.4 Feature Engineering
-    
-        - Was not needed in this project for the type od data we had
+        - Feature selection was done togeter with the Model
         
 
 3. Select From Model (Classification Models)
@@ -130,59 +149,67 @@ Classify if a potential student is going to enrol or not to a school. *What if i
 
 **Inside this repository you can find:**
 
-CSVs raw data:
+0. CSVs
+   CSVs raw data:
 
-    - apps_ih.csv
-    - apps_ih_extended.csv (final version & used for our project)
+       - apps_ih.csv
+       - apps_ih_extended.csv (final version & used for our project)
 
-CSVs clean data:
-    
-    - apps_allYears_semiClean.csv
-    - apps_allYears_clean_selCols.csv
-    - apps_allYears_clean_selCols_addCols.csv
+   CSVs clean data:
 
-    - apps_BCN20201_clean_selCols.csv
-    - apps_BCN20201_clean_Sel_addCols.csv
-    
-    - apps_PAR20201_clean_selCols.csv
-    - apps_PAR20201_clean_Sel_addCols.csv
+       - apps_allYears_semiClean.csv
+       - apps_allYears_clean_selCols.csv
+       - apps_allYears_clean_selCols_addCols.csv
 
+       - apps_BCN20201_clean_selCols.csv
+       - apps_BCN20201_clean_Sel_addCols.csv
+
+       - apps_PAR20201_clean_selCols.csv
+       - apps_PAR20201_clean_Sel_addCols.csv
+
+  
+
+1. Environment
    
-Jupyter notebook:
-    
-    - Scraping API Salesforce.ipynb
-    
-    - EDA.ipynb
-    
-    - AllCampusesYears_DataWrangling.ipynb
-    - AllCampusesYears_SelectFromModel .ipynb
-    - AllCampusesYears_Model.ipynb
-    - AllCampusesYears_Model_ImpFeatures.ipynb
-    - AllCampusesYears_Ensemble_ImpFeatures.ipynb
-       
-    - BCN20201_DataWrangling.ipynb
-    - BCN20201_Model.ipynb
-    - BCN20201_Ensemble_ImpFeatures.ipynb
+   - Scraping API Salesforce.ipynb
 
-    - PAR20201_DataWrangling.ipynb
-    - PAR20201_Model.ipynb
-    - PAR20201_Model_ImpFeatures.ipynb
-    - PAR20201_Ensemble_ImpFeatures.ipynb
+2. Data Preparation
+
+   - EDA.ipynb 
+   - AllCampusesYears_DataWrangling.ipynb
+   - BCN20201_DataWrangling.ipynb
+   - PAR20201_DataWrangling.ipynb
+
+3. Select From Model (Classification Models)
+     
+   - AllCampusesYears_SelectFromModel .ipynb
+
+4. Train Models (Machine Learning Classification Models)
     
-Image:
+   - AllCampusesYears_Model.ipynb
+   - AllCampusesYears_Model_ImpFeatures.ipynb
+   - BCN20201_Model.ipynb
+   - PAR20201_Model.ipynb
+   - PAR20201_Model_ImpFeatures.ipynb
 
-    - ACY_M_tree.png
-    - BCN01_M_tree.png
-    - PAR01_M_tree.png
-    - PAR01_M_FI_tree.png
-    
+5. Ensemble Methods
+   
+   - AllCampusesYears_Ensemble_ImpFeatures.ipynb
+   - BCN20201_Ensemble_ImpFeatures.ipynb
+   - PAR20201_Ensemble_ImpFeatures.ipynb
 
-Other:
+6. Images:
 
-    - README.md
-    - tree.dot
-    - AllCampuses&Years_tree.dot
+   - ACY_M_tree.png
+   - BCN01_M_tree.png
+   - PAR01_M_tree.png
+   - PAR01_M_FI_tree.png
 
+7. Other:
+
+   - README.md
+   - tree.dot
+   - AllCampuses&Years_tree.dot
 
 
 ## Links 
