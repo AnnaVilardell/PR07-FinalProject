@@ -92,7 +92,6 @@ Classify if a potential student is going to enrol or not to a school. *What if i
         - LogisticRegression
         - SVM
         - KNeighborsClassifier
-        - DecisionTreeClassifier
         - LinearDiscriminantAnalysis
         - GaussianNB
         - RandomForestClassifier
