@@ -76,7 +76,9 @@ The specific date we have from our students is besides demographic data, dates/t
 
 **Main objectives**
 
-I've create a model to classify if a potential student is going to enrol or not to a the Irohack school and, moreover, to undersand the journey he/she is more likely to follow.
+I've create a model to classify if a potential student is going to enrol or not to the Ironhack School and, moreover, to undersand the journey he/she is more likely to follow. See below an example of a tree where we could see the journey of the Paris Campus prospects:
+
+![TreeExample](Images/PAR01_M_tree.png)
  
  The 3 objectives that will impact Ironhack are:
    1. Know better funnel trends, to dedicate +/- resources to ≠ prospects and stages
