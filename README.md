@@ -81,9 +81,9 @@ I've create a model to classify if a potential student is going to enrol or not 
 ![TreeExample](Images/PAR01_M_tree.png)
  
  The 3 objectives that will impact Ironhack are:
-   1. Know better funnel trends, to dedicate +/- resources to ≠ prospects and stages
+   1. Know better funnel trends per campus, to dedicate +/- resources to ≠ prospects and stages depending on the campus they are applying.
    2. Recognize better our target, to give insights to marketing. This will also enable us to receive later more qualify prospects.
-   3. Predict better sales, and so our revenue.
+   3. Predict better sales, and so revenue. This will also enable us to better treat the cashflow.
 
 
 
