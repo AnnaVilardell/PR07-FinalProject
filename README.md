@@ -46,7 +46,7 @@ Besides my deep love for data, being the Admissions Manager at Ironhack Barcelon
 
 **Dataset**
 
-The dataset chosen is data of +40k potential students that have applied to 1 of our Ironhack campus bwtween the year 2016 to 2021. Note that Ironhack has 10 campuses inclusing Remote campus.
+The dataset chosen is data of +40k potential students that have applied to 1 of our Ironhack campus between the year 2016 to 2021. Note that Ironhack has 10 campuses inclusing Remote campus.
 
 The specific date we have from our students is besides demographic data, dates/timings of the bootcamp, the type of the bootcamp they applied to, the cost od the bootcamps...
 
