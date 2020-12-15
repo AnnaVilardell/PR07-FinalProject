@@ -39,7 +39,7 @@ Regardless of above the mentioned challenges, the importance of data and capturi
 
 As the definiton says, Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. It focuses on the development of computer programs that can access data and use it to learn for themselves.
 
-In my case, I've used machine learning to create a model that predicts Ironhack Sales.
+In my case, I've used machine learning to create a model that not only predicts Ironhack Sales but also shows the journey of that sale with a decision tree.
 
 Besides my deep love for data, being the Admissions Manager at Ironhack Barcelona, have drove me to see the importance of data and its potential. Unfortunately, most of the times we collect a lot of data but without paying much attention to its quality and not having time to take a look at the one we have and use it smartly. So, this project have gave me the opportunitty to work on it.
 
