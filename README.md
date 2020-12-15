@@ -225,6 +225,6 @@ I've create a model to classify if a potential student is going to enrol or not 
 
 [Repository](https://github.com/AnnaVilardell/PR07-FinalProject/tree/dev)
 
-[Presentation](TBDet)
+[Presentation](https://docs.google.com/presentation/d/196ZB-p4pVIgY2WUVr9x7SytEhjKWepOd5rbtqUL-bPs/edit#slide=id.g35f391192_00)
 
 [GitHub Project](https://github.com/AnnaVilardell/PR07-FinalProject/projects/1?add_cards_query=is%3Aopen)
