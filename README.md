@@ -88,6 +88,7 @@ I've create a model to classify if a potential student is going to enrol or not 
 **Next Steps**
 
 We've been able to confirm that not all campuses in Ironhack act equally when it comes to the sales funnel. And we've been proving how important is to collect quality data. Therefore, my next steps have been focus:
+
     - Treat Global Black data
     - Recollect new data (focusing on the global importnace features we will request new data to be collected)
     - New way to get data (leaving behind manual collection)
