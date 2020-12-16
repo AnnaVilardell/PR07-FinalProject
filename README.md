@@ -81,18 +81,18 @@ I've create a model to classify if a potential student is going to enrol or not 
 ![TreeExample](Images/PAR01_M_tree.png)
  
  The 3 objectives that will impact Ironhack are:
-   1. Know better funnel trends per campus, to dedicate +/- resources to ≠ prospects and stages depending on the campus they are applying.
+   1. Know better funnel trends per campus, to dedicate +/- resources to ≠ prospects and stages depending on the campus they are applying. This will enable us to reduce costs (time and unecessary resources).
    2. Recognize better our target, to give insights to marketing. This will also enable us to receive later more qualify prospects.
    3. Predict better sales, and so revenue. This will also enable us to better treat the cashflow.
 
 **Next Steps**
 
-We've been able to confirm that not all campuses in Ironhack act equally when it comes to the sales funnel. Beisdes, we've been proving how important is to collect quality data. Therefore, my next steps have been focus:
+We've been able to confirm that not all campuses in Ironhack act equally when it comes to the sales funnel. Besides, we've been proving how important is to collect quality data. Therefore, my next steps will be:
 
-    - Treat Global Black data
-    - Recollect new data (focusing on the global importnace features we will request new data to be collected in Salesforce)
-    - New way to get data (leaving behind manual work for the sales team during the process of admission)
-    - Use the biggest insights from the model for each country (will need to use the model for all campuses separately) to start to dedicate ≠ resources to each type of prospect and stage.
+    - Treat global Black Data
+    - Recollect new data (focusing on the global importnace features we will request new necesary data to be entered in Salesforce)
+    - New ways to get data (leaving behind manual work for the sales team during the process of admission)
+    - Use biggest insights from the model result for each country (will need to use the model for all campuses separately) to start to dedicate ≠ resources to each type of prospect and stage
 
 ##  Project Workflow
 
