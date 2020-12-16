@@ -157,7 +157,7 @@ I've create a model to classify if a potential student is going to enrol or not 
 
 **CSVs folder**
 
-   - CSVs raw data (will only be available to Irohack Staff):
+   - CSVs raw data (will only be available to Ironhack Staff):
 
        - apps_ih.csv
        - apps_ih_extended.csv (final version & used for our project)
