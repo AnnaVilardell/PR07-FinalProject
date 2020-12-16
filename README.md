@@ -92,7 +92,7 @@ We've been able to confirm that not all campuses in Ironhack act equally when it
     - Treat global Black Data
     - Recollect new data (focusing on the global importnace features we will request new necesary data to be entered in Salesforce)
     - New ways to get data (leaving behind manual work for the sales team during the process of admission)
-    - Use biggest insights from the model result for each country (will need to use the model for all campuses separately) to start to dedicate ≠ resources to each type of prospect and stage
+    - Use biggest insights from the model result, for each country, to start to dedicate ≠ resources to each type of prospect and stage
 
 ##  Project Workflow
 
