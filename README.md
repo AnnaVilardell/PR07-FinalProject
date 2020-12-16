@@ -90,7 +90,7 @@ I've create a model to classify if a potential student is going to enrol or not 
 We've been able to confirm that not all campuses in Ironhack act equally when it comes to the sales funnel. Besides, we've been proving how important is to collect quality data. Therefore, my next steps will be:
 
     - Treat global Black Data
-    - Recollect new data (focusing on the global importnace features we will request new necesary data to be entered in Salesforce)
+    - Recollect new data (focusing on the global importance features we will request new necessary data to be entered in Salesforce)
     - New ways to get data (leaving behind manual work for the sales team during the process of admission)
     - Use biggest insights from the model result, for each country, to start to dedicate ≠ resources to each type of prospect and stage
 
