@@ -232,6 +232,6 @@ We've been able to confirm that not all campuses in Ironhack act equally when it
 
 [Repository](https://github.com/AnnaVilardell/PR07-FinalProject/tree/dev)
 
-[Presentation](https://docs.google.com/presentation/d/196ZB-p4pVIgY2WUVr9x7SytEhjKWepOd5rbtqUL-bPs/edit#slide=id.g35f391192_00)
+[Presentation](https://docs.google.com/presentation/d/196ZB-p4pVIgY2WUVr9x7SytEhjKWepOd5rbtqUL-bPs/edit#slide=id.ga8fe4eaa6e_0_1919)
 
 [GitHub Project](https://github.com/AnnaVilardell/PR07-FinalProject/projects/1?add_cards_query=is%3Aopen)
