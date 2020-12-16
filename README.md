@@ -14,11 +14,11 @@ ________________________________________________________________________________
 
 Deriving meaningful insights from data, and converting knowledge into action, is easier said than done.
 
-There are challenges that organizations face in adopting analytics. As for instance, during this project 2 of the challenges I’ve found were:
+There are challenges that organizations face in adopting analytics. As for instance, during this project, 2 of the challenges I’ve found were:
 - Poor quality data, referring to both qualitative and quantitative pieces of information
 - Data privacy, also called information privacy which is the aspect of information technology (IT) that deals with the ability an organization or individual has to determine what data in a computer system can be shared with third parties.
 
-Regardless of above the mentioned challenges, the importance of data and capturing the impact from analytics will be my overall goal through this project.
+Regardless of above mentioned challenges, the importance of data and capturing the impact from analytics will be my overall goal through this project.
 
 
 ![Data Impact](https://s27389.pcdn.co/wp-content/uploads/2020/05/coronavirus-diary-when-data-science-becomes-an-art-1-1024x440.jpeg)
